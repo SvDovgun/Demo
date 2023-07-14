@@ -1,4 +1,4 @@
-
+import math
 
 operas = ["Don Giavanni", "Cosi fan tutte", "???"]
 
@@ -15,3 +15,6 @@ print(f'{"; ".join(operas)}')
 tup = (1, 2, 3, 4, 5)
 
 print(tup[2])
+
+result = math.pow(2, 2)
+print(result)
