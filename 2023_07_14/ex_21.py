@@ -14,6 +14,8 @@ print(sum(numbers))
 
 print(list(range(10)))
 
+print(type(numbers))
+
 
 #Verdi = ["Attila", "Nabucco", "Macbeth", "Rigoletto", "La traviata", "Don Carlos", "Otello"]
 #Mozart = ["Apollo et Hyacinthus", "La finta semplice", "Ascanio in Alba", "Le nozze di Figaro", "Don Giovanni", "Così fan tutte"]
